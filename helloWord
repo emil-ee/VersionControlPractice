@@ -1,0 +1,11 @@
+public class HelloWorld {
+    private String userName;
+
+    public HelloWorld {
+        this.userName = Jacob
+    }
+    
+    public static void main(String[] args) {
+        System.out.println("Hello " + userName);
+    }
+}
